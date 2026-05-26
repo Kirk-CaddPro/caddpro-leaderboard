@@ -1,21 +1,19 @@
-
 import requests
 import datetime
 import json
 from collections import defaultdict
-import os
 
 # ===========================================
 # CONFIG
 # ===========================================
 
-# ✅ API key now comes from environment variable (NOT stored in code)
+# ✅ LOCAL ONLY – API key placed directly in file
+import os
 POSTHOG_API_KEY = os.getenv("POSTHOG_API_KEY")
 
 PROJECT_ID = "430329"
 POSTHOG_URL = "https://us.i.posthog.com"
 
-# ✅ Use real current time (production-ready)
 TODAY = datetime.datetime.now(datetime.timezone.utc)
 
 DAY_START = TODAY - datetime.timedelta(days=1)
@@ -113,3 +111,69 @@ def process(events):
         org = user_org[email]
 
         def get_rank(ranking):
+            for i, (e, _) in enumerate(ranking):
+                if e == email:
+                    return i + 1
+            return None
+
+        d_rank = get_rank(daily_ranks.get(org, []))
+        w_rank = get_rank(weekly_ranks.get(org, []))
+        m_rank = get_rank(monthly_ranks.get(org, []))
+
+        pool = monthly_ranks.get(org, [])
+        if m_rank and pool:
+            percentile_value = int((1 - (m_rank / len(pool))) * 100)
+            global_value = f"Top {100 - percentile_value}%"
+        else:
+            global_value = "—"
+
+        # streak
+        days = sorted(user_days[email], reverse=True)
+        streak = 0
+        prev = None
+
+        for d in days:
+            if prev is None or (prev - d).days <= 1:
+                streak += 1
+            else:
+                break
+            prev = d
+
+        output.append({
+            "email": email,
+            "organisation": org,
+            "leaderboard": {
+                "full_throttle": {
+                    "today": d_rank,
+                    "week": w_rank,
+                    "month": m_rank,
+                    "global": global_value
+                },
+                "streaker": {
+                    "today": 1 if d_rank else None,
+                    "week": streak if w_rank else None,
+                    "month": streak,
+                    "global": global_value
+                },
+                "pathfinder": {
+                    "today": None,
+                    "week": None,
+                    "month": len(user_tools[email]),
+                    "global": global_value
+                }
+            }
+        })
+
+    return output
+
+# ===========================================
+# RUN
+# ===========================================
+
+events = fetch_events()
+leaderboard = process(events)
+
+with open("leaderboard.json", "w") as f:
+    json.dump(leaderboard, f, indent=4)
+
+print(f"✅ UI-ready leaderboard created ({len(leaderboard)} users)")
