@@ -264,30 +264,6 @@
         }
     },
     {
-        "email": "daniel.wilson@kbr.com",
-        "organisation": "KBR",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": 28,
-                "global": "Top 66%"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 2,
-                "global": "Top 66%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 4,
-                "global": "Top 66%"
-            }
-        }
-    },
-    {
         "email": "sarah.smith@jacobs.com",
         "organisation": "Jacobs",
         "leaderboard": {
@@ -308,6 +284,30 @@
                 "week": null,
                 "month": 3,
                 "global": "Top 50%"
+            }
+        }
+    },
+    {
+        "email": "daniel.wilson@kbr.com",
+        "organisation": "KBR",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": 28,
+                "global": "Top 66%"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 2,
+                "global": "Top 66%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 4,
+                "global": "Top 66%"
             }
         }
     },
@@ -456,30 +456,6 @@
         }
     },
     {
-        "email": "daniel.nguyen@jacobs.com",
-        "organisation": "Jacobs",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": 31,
-                "global": "Top 87%"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 2,
-                "global": "Top 87%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 3,
-                "global": "Top 87%"
-            }
-        }
-    },
-    {
         "email": "daniel.chen@ghd.com",
         "organisation": "GHD",
         "leaderboard": {
@@ -500,6 +476,30 @@
                 "week": null,
                 "month": 4,
                 "global": "Top 56%"
+            }
+        }
+    },
+    {
+        "email": "daniel.nguyen@jacobs.com",
+        "organisation": "Jacobs",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": 31,
+                "global": "Top 87%"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 2,
+                "global": "Top 87%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 3,
+                "global": "Top 87%"
             }
         }
     },
@@ -1296,30 +1296,6 @@
         }
     },
     {
-        "email": "sarah.smith@ghd.com",
-        "organisation": "GHD",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": 17,
-                "global": "Top 59%"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 1,
-                "global": "Top 59%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 3,
-                "global": "Top 59%"
-            }
-        }
-    },
-    {
         "email": "james.singh@vicroads.com",
         "organisation": "VicRoads",
         "leaderboard": {
@@ -1340,6 +1316,30 @@
                 "week": null,
                 "month": 4,
                 "global": "Top 66%"
+            }
+        }
+    },
+    {
+        "email": "sarah.smith@ghd.com",
+        "organisation": "GHD",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": 17,
+                "global": "Top 59%"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 1,
+                "global": "Top 59%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 3,
+                "global": "Top 59%"
             }
         }
     },
