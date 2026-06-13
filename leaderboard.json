@@ -264,8 +264,8 @@
         }
     },
     {
-        "email": "sarah.smith@jacobs.com",
-        "organisation": "Jacobs",
+        "email": "daniel.wilson@kbr.com",
+        "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -288,8 +288,8 @@
         }
     },
     {
-        "email": "daniel.wilson@kbr.com",
-        "organisation": "KBR",
+        "email": "sarah.smith@jacobs.com",
+        "organisation": "Jacobs",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -816,7 +816,7 @@
         }
     },
     {
-        "email": "david.chen@ghd.com",
+        "email": "david.khan@ghd.com",
         "organisation": "GHD",
         "leaderboard": {
             "full_throttle": {
@@ -840,7 +840,7 @@
         }
     },
     {
-        "email": "david.khan@ghd.com",
+        "email": "david.chen@ghd.com",
         "organisation": "GHD",
         "leaderboard": {
             "full_throttle": {
