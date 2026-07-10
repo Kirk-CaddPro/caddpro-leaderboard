@@ -120,8 +120,8 @@
         }
     },
     {
-        "email": "lucy.chen@vicroads.com",
-        "organisation": "VicRoads",
+        "email": "david.lee@kbr.com",
+        "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -144,8 +144,8 @@
         }
     },
     {
-        "email": "david.lee@kbr.com",
-        "organisation": "KBR",
+        "email": "lucy.chen@vicroads.com",
+        "organisation": "VicRoads",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -504,6 +504,30 @@
         }
     },
     {
+        "email": "sarah.chen@vicroads.com",
+        "organisation": "VicRoads",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
         "email": "lucy.nguyen@kbr.com",
         "organisation": "KBR",
         "leaderboard": {
@@ -576,8 +600,8 @@
         }
     },
     {
-        "email": "sarah.chen@vicroads.com",
-        "organisation": "VicRoads",
+        "email": "sarah.chen@arcadis.com",
+        "organisation": "Arcadis",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -626,30 +650,6 @@
     {
         "email": "sarah.wilson@jacobs.com",
         "organisation": "Jacobs",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "sarah.chen@arcadis.com",
-        "organisation": "Arcadis",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1200,7 +1200,7 @@
         }
     },
     {
-        "email": "olivia.chen@kbr.com",
+        "email": "emma.wilson@kbr.com",
         "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
@@ -1224,7 +1224,7 @@
         }
     },
     {
-        "email": "emma.wilson@kbr.com",
+        "email": "olivia.chen@kbr.com",
         "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
@@ -1296,8 +1296,8 @@
         }
     },
     {
-        "email": "james.singh@vicroads.com",
-        "organisation": "VicRoads",
+        "email": "sarah.smith@ghd.com",
+        "organisation": "GHD",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1320,8 +1320,8 @@
         }
     },
     {
-        "email": "sarah.smith@ghd.com",
-        "organisation": "GHD",
+        "email": "james.singh@vicroads.com",
+        "organisation": "VicRoads",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1560,8 +1560,8 @@
         }
     },
     {
-        "email": "sarah.smith@kbr.com",
-        "organisation": "KBR",
+        "email": "james.wilson@wsp.com",
+        "organisation": "WSP",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1584,8 +1584,8 @@
         }
     },
     {
-        "email": "james.wilson@wsp.com",
-        "organisation": "WSP",
+        "email": "sarah.smith@kbr.com",
+        "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -2208,6 +2208,30 @@
         }
     },
     {
+        "email": "michael.khan@wsp.com",
+        "organisation": "WSP",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
         "email": "michael.singh@wsp.com",
         "organisation": "WSP",
         "leaderboard": {
@@ -2258,30 +2282,6 @@
     {
         "email": "sarah.singh@vicroads.com",
         "organisation": "VicRoads",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "michael.khan@wsp.com",
-        "organisation": "WSP",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
