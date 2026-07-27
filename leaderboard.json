@@ -264,30 +264,6 @@
         }
     },
     {
-        "email": "james.nguyen@ghd.com",
-        "organisation": "GHD",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
         "email": "sarah.smith@jacobs.com",
         "organisation": "Jacobs",
         "leaderboard": {
@@ -360,8 +336,8 @@
         }
     },
     {
-        "email": "michael.singh@jacobs.com",
-        "organisation": "Jacobs",
+        "email": "james.nguyen@ghd.com",
+        "organisation": "GHD",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -386,6 +362,30 @@
     {
         "email": "emma.lee@ghd.com",
         "organisation": "GHD",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
+        "email": "michael.singh@jacobs.com",
+        "organisation": "Jacobs",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1056,30 +1056,6 @@
         }
     },
     {
-        "email": "david.chen@wsp.com",
-        "organisation": "WSP",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
         "email": "michael.lee@vicroads.com",
         "organisation": "VicRoads",
         "leaderboard": {
@@ -1104,8 +1080,8 @@
         }
     },
     {
-        "email": "michael.brown@jacobs.com",
-        "organisation": "Jacobs",
+        "email": "david.chen@wsp.com",
+        "organisation": "WSP",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1130,6 +1106,30 @@
     {
         "email": "lucy.brown@kbr.com",
         "organisation": "KBR",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
+        "email": "michael.brown@jacobs.com",
+        "organisation": "Jacobs",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1608,8 +1608,8 @@
         }
     },
     {
-        "email": "daniel.smith@arcadis.com",
-        "organisation": "Arcadis",
+        "email": "sarah.chen@kbr.com",
+        "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -1632,8 +1632,8 @@
         }
     },
     {
-        "email": "sarah.chen@kbr.com",
-        "organisation": "KBR",
+        "email": "daniel.smith@arcadis.com",
+        "organisation": "Arcadis",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -2400,8 +2400,8 @@
         }
     },
     {
-        "email": "daniel.brown@jacobs.com",
-        "organisation": "Jacobs",
+        "email": "james.nguyen@arcadis.com",
+        "organisation": "Arcadis",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -2424,8 +2424,8 @@
         }
     },
     {
-        "email": "james.nguyen@arcadis.com",
-        "organisation": "Arcadis",
+        "email": "daniel.brown@jacobs.com",
+        "organisation": "Jacobs",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
