@@ -4,15 +4,15 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 2,
+                "today": 1,
                 "week": 1,
                 "month": 1,
                 "global": "Top 50%"
             },
             "streaker": {
                 "today": 1,
-                "week": 1,
-                "month": 1,
+                "week": 2,
+                "month": 2,
                 "global": "Top 50%"
             },
             "pathfinder": {
@@ -28,13 +28,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 100%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 100%"
