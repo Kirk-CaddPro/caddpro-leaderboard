@@ -29,13 +29,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 2,
+                "week": null,
                 "month": 2,
                 "global": "Top 100%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 100%"
             },
