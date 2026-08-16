@@ -4,14 +4,14 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": null,
-                "week": null,
+                "today": 1,
+                "week": 1,
                 "month": 1,
                 "global": "Top 50%"
             },
             "streaker": {
-                "today": null,
-                "week": null,
+                "today": 1,
+                "week": 1,
                 "month": 1,
                 "global": "Top 50%"
             },
