@@ -5,13 +5,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 50%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 50%"
             },
