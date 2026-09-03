@@ -1,30 +1,6 @@
 [
     {
-        "email": "caddpro-admin-test-KirkKulbe",
-        "organisation": "CaddPro",
-        "leaderboard": {
-            "full_throttle": {
-                "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 100%"
-            },
-            "streaker": {
-                "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 100%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 100%"
-            }
-        }
-    },
-    {
-        "email": "adam.lambert@caddpro.com.au",
+        "email": "NA",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
@@ -52,13 +28,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": null,
+                "today": 2,
                 "week": 1,
                 "month": 1,
                 "global": "Top 34%"
             },
             "streaker": {
-                "today": null,
+                "today": 1,
                 "week": 1,
                 "month": 1,
                 "global": "Top 34%"
@@ -72,7 +48,31 @@
         }
     },
     {
-        "email": "NA",
+        "email": "caddpro-admin-test-KirkKulbe",
+        "organisation": "CaddPro",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 100%"
+            },
+            "streaker": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 100%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 100%"
+            }
+        }
+    },
+    {
+        "email": "adam.lambert@caddpro.com.au",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
