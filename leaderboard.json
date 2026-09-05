@@ -4,13 +4,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 25%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 25%"
@@ -28,13 +28,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 3,
+                "today": null,
                 "week": 4,
                 "month": 4,
                 "global": "Top 100%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 100%"
@@ -52,13 +52,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 2,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 50%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 50%"
@@ -76,13 +76,13 @@
         "organisation": "CaddPro",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 100%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 100%"
@@ -100,13 +100,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 4,
+                "today": null,
                 "week": 3,
                 "month": 3,
                 "global": "Top 75%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 75%"
