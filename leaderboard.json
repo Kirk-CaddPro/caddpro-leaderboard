@@ -29,7 +29,7 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 4,
+                "week": 3,
                 "month": 4,
                 "global": "Top 100%"
             },
@@ -101,7 +101,7 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 3,
+                "week": 4,
                 "month": 3,
                 "global": "Top 75%"
             },
