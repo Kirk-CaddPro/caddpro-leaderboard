@@ -1,16 +1,40 @@
 [
     {
-        "email": "adam.lambert@caddpro.com.au",
+        "email": "Kirk.Kulbe@caddpro.com.au",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
                 "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 25%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 25%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 25%"
+            }
+        }
+    },
+    {
+        "email": "adam.lambert@caddpro.com.au",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
                 "week": 3,
                 "month": 4,
                 "global": "Top 100%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 100%"
@@ -20,30 +44,6 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 100%"
-            }
-        }
-    },
-    {
-        "email": "Kirk.Kulbe@caddpro.com.au",
-        "organisation": "NA",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": 1,
-                "month": 1,
-                "global": "Top 25%"
-            },
-            "streaker": {
-                "today": null,
-                "week": 2,
-                "month": 2,
-                "global": "Top 25%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 25%"
             }
         }
     },
