@@ -4,22 +4,22 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": null,
+                "today": 1,
                 "week": 1,
                 "month": 1,
-                "global": "Top 20%"
+                "global": "Top 17%"
             },
             "streaker": {
-                "today": null,
-                "week": 2,
-                "month": 2,
-                "global": "Top 20%"
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 17%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 20%"
+                "global": "Top 17%"
             }
         }
     },
@@ -28,13 +28,13 @@
         "organisation": "CaddPro",
         "leaderboard": {
             "full_throttle": {
-                "today": null,
+                "today": 1,
                 "week": 1,
                 "month": 1,
                 "global": "Top 50%"
             },
             "streaker": {
-                "today": null,
+                "today": 1,
                 "week": 1,
                 "month": 1,
                 "global": "Top 50%"
@@ -44,6 +44,30 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 50%"
+            }
+        }
+    },
+    {
+        "email": "Richard.Villis@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": 2,
+                "week": 3,
+                "month": 4,
+                "global": "Top 67%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 2,
+                "month": 2,
+                "global": "Top 67%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 67%"
             }
         }
     },
@@ -53,8 +77,8 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 4,
-                "month": 5,
+                "week": 5,
+                "month": 6,
                 "global": "Top 100%"
             },
             "streaker": {
@@ -79,19 +103,19 @@
                 "today": null,
                 "week": 2,
                 "month": 2,
-                "global": "Top 40%"
+                "global": "Top 34%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 40%"
+                "global": "Top 34%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 40%"
+                "global": "Top 34%"
             }
         }
     },
@@ -101,21 +125,21 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 3,
+                "week": 4,
                 "month": 3,
-                "global": "Top 60%"
+                "global": "Top 50%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 60%"
+                "global": "Top 50%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 60%"
+                "global": "Top 50%"
             }
         }
     },
@@ -150,20 +174,20 @@
             "full_throttle": {
                 "today": null,
                 "week": null,
-                "month": 4,
-                "global": "Top 81%"
+                "month": 5,
+                "global": "Top 84%"
             },
             "streaker": {
                 "today": null,
                 "week": null,
                 "month": 1,
-                "global": "Top 81%"
+                "global": "Top 84%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 81%"
+                "global": "Top 84%"
             }
         }
     },
@@ -3576,6 +3600,30 @@
         }
     },
     {
+        "email": "olivia.lee@vicroads.com",
+        "organisation": "VicRoads",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
         "email": "lucy.smith@vicroads.com",
         "organisation": "VicRoads",
         "leaderboard": {
@@ -3936,30 +3984,6 @@
         }
     },
     {
-        "email": "olivia.lee@vicroads.com",
-        "organisation": "VicRoads",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
         "email": "emma.wilson@vicroads.com",
         "organisation": "VicRoads",
         "leaderboard": {
@@ -4202,30 +4226,6 @@
     {
         "email": "james.wilson@arcadis.com",
         "organisation": "Arcadis",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "daniel.wilson@wsp.com",
-        "organisation": "WSP",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
