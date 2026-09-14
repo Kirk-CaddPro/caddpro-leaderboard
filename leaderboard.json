@@ -11,8 +11,8 @@
             },
             "streaker": {
                 "today": 1,
-                "week": 1,
-                "month": 1,
+                "week": 2,
+                "month": 2,
                 "global": "Top 17%"
             },
             "pathfinder": {
@@ -20,30 +20,6 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 17%"
-            }
-        }
-    },
-    {
-        "email": "AdamLambert",
-        "organisation": "CaddPro",
-        "leaderboard": {
-            "full_throttle": {
-                "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 50%"
-            },
-            "streaker": {
-                "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 50%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 50%"
             }
         }
     },
@@ -53,21 +29,45 @@
         "leaderboard": {
             "full_throttle": {
                 "today": 2,
-                "week": 3,
-                "month": 4,
-                "global": "Top 67%"
+                "week": 2,
+                "month": 3,
+                "global": "Top 50%"
             },
             "streaker": {
                 "today": 1,
-                "week": 2,
-                "month": 2,
-                "global": "Top 67%"
+                "week": 3,
+                "month": 3,
+                "global": "Top 50%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 67%"
+                "global": "Top 50%"
+            }
+        }
+    },
+    {
+        "email": "AdamLambert",
+        "organisation": "CaddPro",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 50%"
+            },
+            "streaker": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 50%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 50%"
             }
         }
     },
@@ -101,7 +101,7 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 2,
+                "week": 3,
                 "month": 2,
                 "global": "Top 34%"
             },
@@ -126,20 +126,20 @@
             "full_throttle": {
                 "today": null,
                 "week": 4,
-                "month": 3,
-                "global": "Top 50%"
+                "month": 4,
+                "global": "Top 67%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 50%"
+                "global": "Top 67%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 50%"
+                "global": "Top 67%"
             }
         }
     },
@@ -4130,102 +4130,6 @@
     {
         "email": "daniel.singh@ghd.com",
         "organisation": "GHD",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "james.singh@jacobs.com",
-        "organisation": "Jacobs",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "daniel.lee@kbr.com",
-        "organisation": "KBR",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "sarah.chen@jacobs.com",
-        "organisation": "Jacobs",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "james.wilson@arcadis.com",
-        "organisation": "Arcadis",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
