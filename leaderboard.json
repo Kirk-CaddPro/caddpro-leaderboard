@@ -1,25 +1,25 @@
 [
     {
-        "email": "Kirk.Kulbe@caddpro.com.au",
+        "email": "Qui.Tram@kbr.com",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
                 "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 17%"
+                "week": 5,
+                "month": 6,
+                "global": "Top 67%"
             },
             "streaker": {
                 "today": 1,
-                "week": 2,
-                "month": 2,
-                "global": "Top 17%"
+                "week": 1,
+                "month": 1,
+                "global": "Top 67%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 17%"
+                "global": "Top 67%"
             }
         }
     },
@@ -31,19 +31,91 @@
                 "today": 2,
                 "week": 2,
                 "month": 3,
-                "global": "Top 50%"
+                "global": "Top 34%"
             },
             "streaker": {
                 "today": 1,
-                "week": 3,
-                "month": 3,
-                "global": "Top 50%"
+                "week": 4,
+                "month": 4,
+                "global": "Top 34%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 50%"
+                "global": "Top 34%"
+            }
+        }
+    },
+    {
+        "email": "Andrew.Yiannoudes@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": 3,
+                "week": 6,
+                "month": 7,
+                "global": "Top 78%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 78%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 78%"
+            }
+        }
+    },
+    {
+        "email": "Kate.Turnbull@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": 4,
+                "week": 7,
+                "month": 8,
+                "global": "Top 89%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 89%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 89%"
+            }
+        }
+    },
+    {
+        "email": "Kirk.Kulbe@caddpro.com.au",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 12%"
+            },
+            "streaker": {
+                "today": null,
+                "week": 2,
+                "month": 2,
+                "global": "Top 12%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 12%"
             }
         }
     },
@@ -77,8 +149,8 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 5,
-                "month": 6,
+                "week": 8,
+                "month": 9,
                 "global": "Top 100%"
             },
             "streaker": {
@@ -103,19 +175,19 @@
                 "today": null,
                 "week": 3,
                 "month": 2,
-                "global": "Top 34%"
+                "global": "Top 23%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 34%"
+                "global": "Top 23%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 34%"
+                "global": "Top 23%"
             }
         }
     },
@@ -127,19 +199,19 @@
                 "today": null,
                 "week": 4,
                 "month": 4,
-                "global": "Top 67%"
+                "global": "Top 45%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 67%"
+                "global": "Top 45%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 67%"
+                "global": "Top 45%"
             }
         }
     },
@@ -175,19 +247,19 @@
                 "today": null,
                 "week": null,
                 "month": 5,
-                "global": "Top 84%"
+                "global": "Top 56%"
             },
             "streaker": {
                 "today": null,
                 "week": null,
                 "month": 1,
-                "global": "Top 84%"
+                "global": "Top 56%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 84%"
+                "global": "Top 56%"
             }
         }
     },
@@ -4105,30 +4177,6 @@
     },
     {
         "email": "james.lee@ghd.com",
-        "organisation": "GHD",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "daniel.singh@ghd.com",
         "organisation": "GHD",
         "leaderboard": {
             "full_throttle": {
