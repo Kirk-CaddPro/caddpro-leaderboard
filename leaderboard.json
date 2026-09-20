@@ -4,15 +4,15 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 2,
+                "today": 1,
                 "week": 2,
                 "month": 3,
                 "global": "Top 28%"
             },
             "streaker": {
                 "today": 1,
-                "week": 2,
-                "month": 2,
+                "week": 3,
+                "month": 3,
                 "global": "Top 28%"
             },
             "pathfinder": {
@@ -24,17 +24,41 @@
         }
     },
     {
-        "email": "Kirk.Kulbe@caddpro.com.au",
-        "organisation": "NA",
+        "email": "AdamLambert",
+        "organisation": "CaddPro",
         "leaderboard": {
             "full_throttle": {
                 "today": 1,
                 "week": 1,
                 "month": 1,
-                "global": "Top 10%"
+                "global": "Top 50%"
             },
             "streaker": {
                 "today": 1,
+                "week": 4,
+                "month": 4,
+                "global": "Top 50%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 50%"
+            }
+        }
+    },
+    {
+        "email": "Kirk.Kulbe@caddpro.com.au",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 10%"
+            },
+            "streaker": {
+                "today": null,
                 "week": 4,
                 "month": 4,
                 "global": "Top 10%"
@@ -44,30 +68,6 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 10%"
-            }
-        }
-    },
-    {
-        "email": "AdamLambert",
-        "organisation": "CaddPro",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": 1,
-                "month": 1,
-                "global": "Top 50%"
-            },
-            "streaker": {
-                "today": null,
-                "week": 3,
-                "month": 3,
-                "global": "Top 50%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 50%"
             }
         }
     },
@@ -1656,54 +1656,6 @@
         }
     },
     {
-        "email": "james.singh@vicroads.com",
-        "organisation": "VicRoads",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "michael.chen@kbr.com",
-        "organisation": "KBR",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
         "email": "daniel.brown@kbr.com",
         "organisation": "KBR",
         "leaderboard": {
@@ -1778,6 +1730,30 @@
     {
         "email": "lucy.lee@kbr.com",
         "organisation": "KBR",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
+        "email": "daniel.brown@vicroads.com",
+        "organisation": "VicRoads",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -3624,6 +3600,30 @@
         }
     },
     {
+        "email": "james.singh@vicroads.com",
+        "organisation": "VicRoads",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
         "email": "james.brown@jacobs.com",
         "organisation": "Jacobs",
         "leaderboard": {
@@ -3890,30 +3890,6 @@
     {
         "email": "michael.brown@arcadis.com",
         "organisation": "Arcadis",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "daniel.brown@vicroads.com",
-        "organisation": "VicRoads",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
