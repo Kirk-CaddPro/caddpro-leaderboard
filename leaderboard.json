@@ -1,25 +1,25 @@
 [
     {
-        "email": "AdamLambert",
-        "organisation": "CaddPro",
+        "email": "unknown",
+        "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
                 "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 50%"
+                "week": 4,
+                "month": 3,
+                "global": "Top 20%"
             },
             "streaker": {
                 "today": 1,
                 "week": 1,
                 "month": 1,
-                "global": "Top 50%"
+                "global": "Top 20%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 50%"
+                "global": "Top 20%"
             }
         }
     },
@@ -28,13 +28,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 7%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 7%"
@@ -48,17 +48,41 @@
         }
     },
     {
+        "email": "AdamLambert",
+        "organisation": "CaddPro",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 50%"
+            },
+            "streaker": {
+                "today": null,
+                "week": 1,
+                "month": 1,
+                "global": "Top 50%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 50%"
+            }
+        }
+    },
+    {
         "email": "Brent.Harwood@kbr.com",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 2,
+                "today": null,
                 "week": 6,
                 "month": 13,
                 "global": "Top 87%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 87%"
@@ -76,13 +100,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 3,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 14%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 14%"
@@ -197,13 +221,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 4,
+                "week": null,
                 "month": 8,
                 "global": "Top 54%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 54%"
             },
@@ -212,30 +236,6 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 54%"
-            }
-        }
-    },
-    {
-        "email": "unknown",
-        "organisation": "NA",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": 3,
-                "global": "Top 20%"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 1,
-                "global": "Top 20%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 20%"
             }
         }
     },
@@ -1104,30 +1104,6 @@
         }
     },
     {
-        "email": "michael.smith@kbr.com",
-        "organisation": "KBR",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
         "email": "daniel.singh@vicroads.com",
         "organisation": "VicRoads",
         "leaderboard": {
@@ -1178,6 +1154,54 @@
     {
         "email": "daniel.nguyen@wsp.com",
         "organisation": "WSP",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
+        "email": "olivia.khan@jacobs.com",
+        "organisation": "Jacobs",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
+                "week": null,
+                "month": null,
+                "global": "\u2014"
+            },
+            "streaker": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "\u2014"
+            }
+        }
+    },
+    {
+        "email": "michael.smith@kbr.com",
+        "organisation": "KBR",
         "leaderboard": {
             "full_throttle": {
                 "today": null,
@@ -3721,30 +3745,6 @@
     },
     {
         "email": "james.brown@jacobs.com",
-        "organisation": "Jacobs",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": null,
-                "global": "\u2014"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "\u2014"
-            }
-        }
-    },
-    {
-        "email": "olivia.khan@jacobs.com",
         "organisation": "Jacobs",
         "leaderboard": {
             "full_throttle": {
