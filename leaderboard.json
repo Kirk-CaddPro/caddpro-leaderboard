@@ -4,13 +4,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
+                "today": null,
                 "week": 4,
                 "month": 8,
                 "global": "Top 54%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 54%"
@@ -28,13 +28,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 2,
+                "today": null,
                 "week": 1,
                 "month": 2,
                 "global": "Top 14%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 14%"
@@ -101,13 +101,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 50%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 50%"
             },
@@ -125,13 +125,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 5,
+                "week": null,
                 "month": 13,
                 "global": "Top 87%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 87%"
             },
