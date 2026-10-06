@@ -1,18 +1,42 @@
 [
     {
-        "email": "Richard.Villis@kbr.com",
+        "email": "Alvin.Tan@kbr.com",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
-                "week": 1,
-                "month": 2,
-                "global": "Top 13%"
+                "today": 2,
+                "week": 3,
+                "month": 6,
+                "global": "Top 38%"
             },
             "streaker": {
                 "today": 1,
                 "week": 1,
                 "month": 1,
+                "global": "Top 38%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 38%"
+            }
+        }
+    },
+    {
+        "email": "Richard.Villis@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": 3,
+                "week": 2,
+                "month": 2,
+                "global": "Top 13%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 2,
+                "month": 2,
                 "global": "Top 13%"
             },
             "pathfinder": {
@@ -20,6 +44,30 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 13%"
+            }
+        }
+    },
+    {
+        "email": "Carmelo.Arquiza@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": 1,
+                "week": 1,
+                "month": 3,
+                "global": "Top 19%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 19%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 19%"
             }
         }
     },
@@ -29,45 +77,21 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 3,
-                "month": 7,
-                "global": "Top 44%"
+                "week": 4,
+                "month": 8,
+                "global": "Top 50%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 44%"
+                "global": "Top 50%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 44%"
-            }
-        }
-    },
-    {
-        "email": "Carmelo.Arquiza@kbr.com",
-        "organisation": "NA",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": 2,
-                "month": 4,
-                "global": "Top 25%"
-            },
-            "streaker": {
-                "today": null,
-                "week": 1,
-                "month": 1,
-                "global": "Top 25%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 25%"
+                "global": "Top 50%"
             }
         }
     },
@@ -77,7 +101,7 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 5,
+                "week": 6,
                 "month": 10,
                 "global": "Top 63%"
             },
@@ -101,7 +125,7 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 4,
+                "week": 5,
                 "month": 1,
                 "global": "Top 7%"
             },
@@ -116,30 +140,6 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 7%"
-            }
-        }
-    },
-    {
-        "email": "Alvin.Tan@kbr.com",
-        "organisation": "NA",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": 6,
-                "month": 8,
-                "global": "Top 50%"
-            },
-            "streaker": {
-                "today": null,
-                "week": 1,
-                "month": 1,
-                "global": "Top 50%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 50%"
             }
         }
     },
@@ -150,20 +150,20 @@
             "full_throttle": {
                 "today": null,
                 "week": null,
-                "month": 3,
-                "global": "Top 19%"
+                "month": 4,
+                "global": "Top 25%"
             },
             "streaker": {
                 "today": null,
                 "week": null,
                 "month": 1,
-                "global": "Top 19%"
+                "global": "Top 25%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 19%"
+                "global": "Top 25%"
             }
         }
     },
@@ -318,20 +318,20 @@
             "full_throttle": {
                 "today": null,
                 "week": null,
-                "month": 6,
-                "global": "Top 38%"
+                "month": 7,
+                "global": "Top 44%"
             },
             "streaker": {
                 "today": null,
                 "week": null,
                 "month": 1,
-                "global": "Top 38%"
+                "global": "Top 44%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 38%"
+                "global": "Top 44%"
             }
         }
     },
