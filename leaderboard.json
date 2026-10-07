@@ -4,22 +4,22 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 2,
+                "today": 1,
                 "week": 3,
-                "month": 6,
-                "global": "Top 38%"
+                "month": 5,
+                "global": "Top 32%"
             },
             "streaker": {
                 "today": 1,
-                "week": 1,
-                "month": 1,
-                "global": "Top 38%"
+                "week": 2,
+                "month": 2,
+                "global": "Top 32%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 38%"
+                "global": "Top 32%"
             }
         }
     },
@@ -28,13 +28,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 3,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 13%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 13%"
@@ -52,13 +52,13 @@
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 3,
                 "global": "Top 19%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 1,
                 "month": 1,
                 "global": "Top 19%"
@@ -390,20 +390,20 @@
             "full_throttle": {
                 "today": null,
                 "week": null,
-                "month": 5,
-                "global": "Top 32%"
+                "month": 6,
+                "global": "Top 38%"
             },
             "streaker": {
                 "today": null,
                 "week": null,
                 "month": 1,
-                "global": "Top 32%"
+                "global": "Top 38%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 32%"
+                "global": "Top 38%"
             }
         }
     },
