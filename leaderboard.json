@@ -1,16 +1,64 @@
 [
     {
-        "email": "Alvin.Tan@kbr.com",
+        "email": "Richard.Villis@kbr.com",
         "organisation": "NA",
         "leaderboard": {
             "full_throttle": {
                 "today": 1,
+                "week": 1,
+                "month": 2,
+                "global": "Top 13%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 13%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 13%"
+            }
+        }
+    },
+    {
+        "email": "Diana.Leonen@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": 2,
+                "week": 5,
+                "month": 7,
+                "global": "Top 44%"
+            },
+            "streaker": {
+                "today": 1,
+                "week": 1,
+                "month": 1,
+                "global": "Top 44%"
+            },
+            "pathfinder": {
+                "today": null,
+                "week": null,
+                "month": 0,
+                "global": "Top 44%"
+            }
+        }
+    },
+    {
+        "email": "Alvin.Tan@kbr.com",
+        "organisation": "NA",
+        "leaderboard": {
+            "full_throttle": {
+                "today": null,
                 "week": 3,
                 "month": 5,
                 "global": "Top 32%"
             },
             "streaker": {
-                "today": 1,
+                "today": null,
                 "week": 2,
                 "month": 2,
                 "global": "Top 32%"
@@ -20,30 +68,6 @@
                 "week": null,
                 "month": 0,
                 "global": "Top 32%"
-            }
-        }
-    },
-    {
-        "email": "Richard.Villis@kbr.com",
-        "organisation": "NA",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": 2,
-                "month": 2,
-                "global": "Top 13%"
-            },
-            "streaker": {
-                "today": null,
-                "week": 2,
-                "month": 2,
-                "global": "Top 13%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 13%"
             }
         }
     },
@@ -53,7 +77,7 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 1,
+                "week": 2,
                 "month": 3,
                 "global": "Top 19%"
             },
@@ -78,20 +102,20 @@
             "full_throttle": {
                 "today": null,
                 "week": 4,
-                "month": 8,
-                "global": "Top 50%"
+                "month": 9,
+                "global": "Top 57%"
             },
             "streaker": {
                 "today": null,
                 "week": 1,
                 "month": 1,
-                "global": "Top 50%"
+                "global": "Top 57%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 50%"
+                "global": "Top 57%"
             }
         }
     },
@@ -101,13 +125,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 6,
+                "week": null,
                 "month": 10,
                 "global": "Top 63%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 63%"
             },
@@ -125,13 +149,13 @@
         "leaderboard": {
             "full_throttle": {
                 "today": null,
-                "week": 5,
+                "week": null,
                 "month": 1,
                 "global": "Top 7%"
             },
             "streaker": {
                 "today": null,
-                "week": 1,
+                "week": null,
                 "month": 1,
                 "global": "Top 7%"
             },
@@ -264,30 +288,6 @@
         }
     },
     {
-        "email": "Diana.Leonen@kbr.com",
-        "organisation": "NA",
-        "leaderboard": {
-            "full_throttle": {
-                "today": null,
-                "week": null,
-                "month": 9,
-                "global": "Top 57%"
-            },
-            "streaker": {
-                "today": null,
-                "week": null,
-                "month": 1,
-                "global": "Top 57%"
-            },
-            "pathfinder": {
-                "today": null,
-                "week": null,
-                "month": 0,
-                "global": "Top 57%"
-            }
-        }
-    },
-    {
         "email": "Kate.Turnbull@kbr.com",
         "organisation": "NA",
         "leaderboard": {
@@ -318,20 +318,20 @@
             "full_throttle": {
                 "today": null,
                 "week": null,
-                "month": 7,
-                "global": "Top 44%"
+                "month": 8,
+                "global": "Top 50%"
             },
             "streaker": {
                 "today": null,
                 "week": null,
                 "month": 1,
-                "global": "Top 44%"
+                "global": "Top 50%"
             },
             "pathfinder": {
                 "today": null,
                 "week": null,
                 "month": 0,
-                "global": "Top 44%"
+                "global": "Top 50%"
             }
         }
     },
